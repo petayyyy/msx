@@ -1,6 +1,6 @@
 {
   "name": "My MSX Portal",
   "version": "1.0.0",
-  "parameter": "menu:{PREFIX}{SERVER}/msx/menu.json",
+  "parameter": "menu:https://petayyyy.github.io/msx/menu.json",
   "welcome": "none"
 }
