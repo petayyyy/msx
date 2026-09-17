@@ -4,12 +4,20 @@
     {
       "label": "Zagonka8",
       "icon": "link",
-      "action": "link:window:http://zagonka8.zagonkov.gb.net/u"
+      "data": {
+        "restore": false,
+        "action": "link:window:http://zagonka8.zagonkov.gb.net/u",
+        "pages": []
+      }
     },
     {
       "label": "YummyAnime",
       "icon": "link",
-      "action": "link:window:https://yummyanime.tv/index-5"
+      "data": {
+        "restore": false,
+        "action": "link:window:https://yummyanime.tv/index-5",
+        "pages": []
+      }
     }
   ]
 }
