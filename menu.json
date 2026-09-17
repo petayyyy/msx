@@ -6,8 +6,20 @@
       "icon": "link",
       "data": {
         "restore": false,
-        "action": "link:window:http://zagonka8.zagonkov.gb.net/u",
-        "pages": []
+        "pages": [
+          {
+            "items": [
+              {
+                "type": "button",
+                "layout": "3,2,6,2",
+                "icon": "open-in-new",
+                "label": "Открыть Zagonka8",
+                "execute": true,
+                "action": "link:window:http://zagonka8.zagonkov.gb.net/u"
+              }
+            ]
+          }
+        ]
       }
     },
     {
@@ -15,8 +27,20 @@
       "icon": "link",
       "data": {
         "restore": false,
-        "action": "link:window:https://yummyanime.tv/index-5",
-        "pages": []
+        "pages": [
+          {
+            "items": [
+              {
+                "type": "button",
+                "layout": "3,2,6,2",
+                "icon": "open-in-new",
+                "label": "Открыть YummyAnime",
+                "execute": true,
+                "action": "link:window:https://yummyanime.tv/index-5"
+              }
+            ]
+          }
+        ]
       }
     }
   ]
