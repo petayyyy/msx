@@ -1,0 +1,15 @@
+{
+  "headline": "Мой портал",
+  "menu": [
+    {
+      "label": "Zagonka8",
+      "icon": "link",
+      "action": "link:window:http://zagonka8.zagonkov.gb.net/u"
+    },
+    {
+      "label": "YummyAnime",
+      "icon": "link",
+      "action": "link:window:https://yummyanime.tv/index-5"
+    }
+  ]
+}
